@@ -49,7 +49,7 @@ A planilha tratada **não está versionada neste repositório** de propósito: o
 
 ## Limitações
 
-- Os dados são, em sua maioria, sintéticos (gerados no Mockaroo); apenas cerca de 18 linhas são reais.
+- Os dados são, em sua maioria, sintéticos (gerados no Mockaroo);
 
 ## Equipe
 
